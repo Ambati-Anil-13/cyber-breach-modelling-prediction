@@ -62,11 +62,9 @@ Use Python 3.9 or newer.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cyber-breach-modelling-prediction.git
+git clone https://github.com/Ambati-Anil-13/cyber-breach-modelling-prediction.git
 cd cyber-breach-modelling-prediction
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username. You can also download the repository ZIP instead of cloning it.
 
 ### 2. Create and activate a virtual environment
 
