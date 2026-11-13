@@ -1,0 +1,6 @@
+duration,protocol_type,service,src_bytes,dst_bytes,failed_logins,connection_count,unusual_port,same_src_dst
+12.5,TCP,HTTPS,1800,4200,0,4,0,0
+2.1,TCP,SSH,900,40,6,38,1,0
+0.8,UDP,DNS,300,700,0,12,0,0
+4.0,TCP,FTP,62000,90,3,33,1,0
+31.2,TCP,HTTP,4500,8900,1,8,0,0

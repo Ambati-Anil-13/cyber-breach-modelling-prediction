@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model and reports (regenerate by running the scripts)
+models/*.joblib
+reports/*.json
+reports/*.csv
+!models/.gitkeep
+!reports/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
